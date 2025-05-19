@@ -1,0 +1,71 @@
+// Assegna i dati delle notizie a una variabile globale chiamata 'newsData'
+var newsData = [
+        
+    {
+        "titolo": "Nuovi Arrivi: Smartphone Ultima Generazione",
+        "testo": "Sono disponibili in negozio gli ultimi modelli di smartphone delle migliori marche. Venite a scoprire le offerte!"
+      },
+      {
+        "titolo": "Promozione Back to School!",
+        "testo": "Sconti speciali su tutto il materiale di cartoleria e zaini per il rientro a scuola. Offerta valida fino a fine mese."
+      },
+      {
+        "titolo": "Servizio Assistenza Tecnica Potenziato",
+        "testo": "Abbiamo ampliato il nostro team di tecnici per offrire un servizio di assistenza ancora più rapido ed efficiente per PC e smartphone."
+      },
+      {
+        "titolo": "Installazione Sistemi di Videosorveglianza",
+        "testo": "Proteggi la tua casa o il tuo ufficio con i nostri sistemi di videosorveglianza professionali. Preventivi gratuiti."
+      },
+          
+    {
+        "titolo": "Nuovi Arrivi: Smartphone Ultima Generazione",
+        "testo": "Sono disponibili in negozio gli ultimi modelli di smartphone delle migliori marche. Venite a scoprire le offerte!"
+      },
+      {
+        "titolo": "Promozione Back to School!",
+        "testo": "Sconti speciali su tutto il materiale di cartoleria e zaini per il rientro a scuola. Offerta valida fino a fine mese."
+      },
+      {
+        "titolo": "Servizio Assistenza Tecnica Potenziato",
+        "testo": "Abbiamo ampliato il nostro team di tecnici per offrire un servizio di assistenza ancora più rapido ed efficiente per PC e smartphone."
+      },
+      {
+        "titolo": "Installazione Sistemi di Videosorveglianza",
+        "testo": "Proteggi la tua casa o il tuo ufficio con i nostri sistemi di videosorveglianza professionali. Preventivi gratuiti."
+      },
+          
+    {
+        "titolo": "Nuovi Arrivi: Smartphone Ultima Generazione",
+        "testo": "Sono disponibili in negozio gli ultimi modelli di smartphone delle migliori marche. Venite a scoprire le offerte!"
+      },
+      {
+        "titolo": "Promozione Back to School!",
+        "testo": "Sconti speciali su tutto il materiale di cartoleria e zaini per il rientro a scuola. Offerta valida fino a fine mese."
+      },
+      {
+        "titolo": "Servizio Assistenza Tecnica Potenziato",
+        "testo": "Abbiamo ampliato il nostro team di tecnici per offrire un servizio di assistenza ancora più rapido ed efficiente per PC e smartphone."
+      },
+      {
+        "titolo": "Installazione Sistemi di Videosorveglianza",
+        "testo": "Proteggi la tua casa o il tuo ufficio con i nostri sistemi di videosorveglianza professionali. Preventivi gratuiti."
+      },
+    {
+      "titolo": "Nuovi Arrivi: Smartphone Ultima Generazione",
+      "testo": "Sono disponibili in negozio gli ultimi modelli di smartphone delle migliori marche. Venite a scoprire le offerte!"
+    },
+    {
+      "titolo": "Promozione Back to School!",
+      "testo": "Sconti speciali su tutto il materiale di cartoleria e zaini per il rientro a scuola. Offerta valida fino a fine mese."
+    },
+    {
+      "titolo": "Servizio Assistenza Tecnica Potenziato",
+      "testo": "Abbiamo ampliato il nostro team di tecnici per offrire un servizio di assistenza ancora più rapido ed efficiente per PC e smartphone."
+    },
+    {
+      "titolo": "Installazione Sistemi di Videosorveglianza",
+      "testo": "Proteggi la tua casa o il tuo ufficio con i nostri sistemi di videosorveglianza professionali. Preventivi gratuiti."
+    },
+  ];
+  
